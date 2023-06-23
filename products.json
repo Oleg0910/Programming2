@@ -1,0 +1,182 @@
+[
+    {
+        "product_id": 1,
+        "title": "Product 1",
+        "image_url": "image_1.jpg",
+        "price": 215.02,
+        "created_at": "02-11-2022",
+        "updated_at": "09-11-2022",
+        "description": "Description for Product 1"
+    },
+    {
+        "product_id": 2,
+        "title": "Product 2",
+        "image_url": "image_2.jpg",
+        "price": 856.43,
+        "created_at": "11-04-2022",
+        "updated_at": "28-09-2022",
+        "description": "Description for Product 2"
+    },
+    {
+        "product_id": 3,
+        "title": "Product 3",
+        "image_url": "image_3.jpg",
+        "price": 819.83,
+        "created_at": "09-03-2021",
+        "updated_at": "04-11-2022",
+        "description": "Description for Product 3"
+    },
+    {
+        "product_id": 4,
+        "title": "Product 4",
+        "image_url": "image_4.jpg",
+        "price": 986.23,
+        "created_at": "27-06-2021",
+        "updated_at": "12-12-2022",
+        "description": "Description for Product 4"
+    },
+    {
+        "product_id": 5,
+        "title": "Product 5",
+        "image_url": "image_5.jpg",
+        "price": 236.05,
+        "created_at": "23-08-2022",
+        "updated_at": "01-10-2022",
+        "description": "Description for Product 5"
+    },
+    {
+        "product_id": 6,
+        "title": "Product 6",
+        "image_url": "image_6.jpg",
+        "price": 900.65,
+        "created_at": "16-09-2021",
+        "updated_at": "19-05-2022",
+        "description": "Description for Product 6"
+    },
+    {
+        "product_id": 7,
+        "title": "Product 7",
+        "image_url": "image_7.jpg",
+        "price": 133.32,
+        "created_at": "06-06-2021",
+        "updated_at": "13-04-2022",
+        "description": "Description for Product 7"
+    },
+    {
+        "product_id": 8,
+        "title": "Product 8",
+        "image_url": "image_8.jpg",
+        "price": 698.61,
+        "created_at": "02-12-2022",
+        "updated_at": "22-12-2022",
+        "description": "Description for Product 8"
+    },
+    {
+        "product_id": 9,
+        "title": "Product 9",
+        "image_url": "image_9.jpg",
+        "price": 104.06,
+        "created_at": "27-07-2021",
+        "updated_at": "19-04-2022",
+        "description": "Description for Product 9"
+    },
+    {
+        "product_id": 10,
+        "title": "Product 10",
+        "image_url": "image_10.jpg",
+        "price": 737.88,
+        "created_at": "18-08-2022",
+        "updated_at": "25-08-2022",
+        "description": "Description for Product 10"
+    },
+    {
+        "product_id": 11,
+        "title": "Product 11",
+        "image_url": "image_11.jpg",
+        "price": 80.85,
+        "created_at": "07-10-2021",
+        "updated_at": "02-06-2022",
+        "description": "Description for Product 11"
+    },
+    {
+        "product_id": 12,
+        "title": "Product 12",
+        "image_url": "image_12.jpg",
+        "price": 517.6,
+        "created_at": "17-01-2022",
+        "updated_at": "04-11-2022",
+        "description": "Description for Product 12"
+    },
+    {
+        "product_id": 13,
+        "title": "Product 13",
+        "image_url": "image_13.jpg",
+        "price": 10.61,
+        "created_at": "14-09-2022",
+        "updated_at": "19-11-2022",
+        "description": "Description for Product 13"
+    },
+    {
+        "product_id": 14,
+        "title": "Product 14",
+        "image_url": "image_14.jpg",
+        "price": 641.53,
+        "created_at": "10-01-2021",
+        "updated_at": "13-12-2021",
+        "description": "Description for Product 14"
+    },
+    {
+        "product_id": 15,
+        "title": "Product 15",
+        "image_url": "image_15.jpg",
+        "price": 851.72,
+        "created_at": "15-07-2021",
+        "updated_at": "03-12-2021",
+        "description": "Description for Product 15"
+    },
+    {
+        "product_id": 16,
+        "title": "Product 16",
+        "image_url": "image_16.jpg",
+        "price": 596.05,
+        "created_at": "23-03-2021",
+        "updated_at": "27-08-2021",
+        "description": "Description for Product 16"
+    },
+    {
+        "product_id": 17,
+        "title": "Product 17",
+        "image_url": "image_17.jpg",
+        "price": 332.95,
+        "created_at": "22-04-2022",
+        "updated_at": "28-09-2022",
+        "description": "Description for Product 17"
+    },
+    {
+        "product_id": 18,
+        "title": "Product 18",
+        "image_url": "image_18.jpg",
+        "price": 443.11,
+        "created_at": "07-12-2021",
+        "updated_at": "01-11-2022",
+        "description": "Description for Product 18"
+    },
+    {
+        "product_id": 19,
+        "title": "Product 19",
+        "image_url": "image_19.jpg",
+        "price": 874.54,
+        "created_at": "28-10-2021",
+        "updated_at": "28-03-2022",
+        "description": "Description for Product 19"
+    },
+    {
+        "product_id": 20,
+        "title": "Product 20",
+        "image_url": "image_20.jpg",
+        "price": 620.9,
+        "created_at": "07-07-2022",
+        "updated_at": "17-11-2022",
+        "description": "Description for Product 20"
+    }
+]
